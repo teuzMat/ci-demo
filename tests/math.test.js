@@ -5,5 +5,5 @@ test('soma 2 + 3 deve ser 5', () => {
 });
 
 test('multiplicação 2 * 3 deve ser 6', () => {
-  expect(multiply(2, 3)).toBe(5);
+  expect(multiply(2, 3)).toBe(6);
 });
